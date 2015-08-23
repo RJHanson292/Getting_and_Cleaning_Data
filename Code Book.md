@@ -1,12 +1,13 @@
 #Code Book
 
 ##Variables
-- Subject: this is the ID of the test subject (the person wearing the device)
+- Subject: this is the ID of the test subject (the person wearing the device) (aged 19-48)
 - Activity: this is the activity that the subject was doing when the measurements were taken
 
-###Measurements (from original readme)
+###Measurements
 
-These signals were used to estimate variables of the feature vector for each pattern:  
+Each Acc (acceleration) variable is measured in standard gravitational units g (roughly 9.81ms^-2)
+Each Gyro (angular velocity recorded by the gyroscope) uses units radians per second
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 - tBodyAcc-XYZ
