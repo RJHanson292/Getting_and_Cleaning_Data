@@ -7,6 +7,7 @@
 ###Measurements
 
 Each Acc (acceleration) variable is measured in standard gravitational units g (roughly 9.81ms^-2)
+
 Each Gyro (angular velocity recorded by the gyroscope) uses units radians per second
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
